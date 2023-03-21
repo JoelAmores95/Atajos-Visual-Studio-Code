@@ -1,4 +1,4 @@
-"## Atajos-Visual-Studio-Code" 
+## Atajos-Visual-Studio-Code 
 #### Ver Atajos definidos: Ctrl + K + S
 
 - Mover linea - Alt + ↑ / ↓
